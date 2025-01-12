@@ -21,6 +21,7 @@ Add bluetooth as an additional input.
 1. Learn/test/verify how buttons work. 
 <newline> **DONE** -> test_button_function.ino
 2. Use buttons only to control LED state.
+<newline> **DONE** -> buttons_control_led.ino
 3. Learn/test/verify how IR receiver works. Record remote signals for buttons 0-7.
 4. Implement buttons + IR remote setting LED state.
 5. Document pin diagram.
